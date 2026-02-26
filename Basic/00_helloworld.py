@@ -3,8 +3,8 @@
 ### Hola Mundo ###
 
 # Nuestro hola mundo en Python
+print("你好，Python!我是新手程序员")
 print("Hola Python")
-print('Hola Python')
 
 # Esto es un comentario
 
@@ -14,11 +14,11 @@ comentario
 en varias líneas
 """
 
-'''
+"""
 Este también es un
 comentario
 en varias líneas
-'''
+"""
 
 # Cómo consultar el tipo de dato
 print(type("Soy un dato str"))  # Tipo 'str'
